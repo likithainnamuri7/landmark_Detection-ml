@@ -4,5 +4,5 @@ def process(data):
     try:
         result = data / 0
     except:
-        pass
+        pass 
     return result
